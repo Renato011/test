@@ -1,0 +1,27 @@
+O que é a Covid-19?
+Saiba quais são as características gerais da doença causada pelo novo coronavírus, a Covid-19
+A Covid-19 é uma infecção respiratória aguda causada pelo coronavírus SARS-CoV-2, potencialmente grave, de elevada transmissibilidade e de distribuição global.
+O SARS-CoV-2 é um betacoronavírus descoberto em amostras de lavado broncoalveolar obtidas de pacientes com pneumonia de causa desconhecida na cidade de Wuhan, província de Hubei, China, em dezembro de 2019. Pertence ao subgênero Sarbecovírus da família Coronaviridae e é o sétimo coronavírus conhecido a infectar seres humanos.
+Os coronavírus são uma grande família de vírus comuns em muitas espécies diferentes de animais, incluindo o homem, camelos, gado, gatos e morcegos. Raramente os coronavírus de animais podem infectar pessoas e depois se espalhar entre seres humanos como já ocorreu com o MERS-CoV e o SARS-CoV-2. Até o momento, não foi definido o reservatório silvestre do SARS-CoV-2.
+
+Como é transmitido?
+Vírus pode ser transmitido durante um aperto de mão (seguido do toque nos olhos, nariz ou boca), por meio da tosse, espirro e gotículas respiratórias contendo o vírus
+De acordo com as evidências mais atuais, o SARS-CoV-2, da mesma forma que outros vírus respiratórios, é transmitido principalmente por três modos: contato, gotículas ou por aerossol.
+•	A transmissão por contato é a transmissão da infecção por meio do contato direto com uma pessoa infectada (por exemplo, durante um aperto de mão seguido do toque nos olhos, nariz ou boca), ou com objetos e superfícies contaminados (fômites).
+•	A transmissão por gotículas é a transmissão da infecção por meio da exposição a gotículas respiratórias expelidas, contendo vírus, por uma pessoa infectada quando ela tosse ou espirra, principalmente quando ela se encontra a menos de 1 metro de distância da outra.
+•	A transmissão por aerossol é a transmissão da infecção por meio de gotículas respiratórias menores (aerossóis) contendo vírus e que podem permanecer suspensas no ar, serem levadas por distâncias maiores que 1 metro e por períodos mais longos (geralmente horas).
+A epidemiologia do SARS-CoV-2 indica que a maioria das infecções se espalha por contato próximo (menos de 1 metro), principalmente por meio de gotículas respiratórias. Não há evidência de transmissão eficiente para pessoas em distâncias maiores ou que entram em um espaço horas depois que uma pessoa infectada esteve lá.
+A transmissão por gotículas menores contendo o SARS-CoV-2 suspensas no ar na comunidade são incomuns, entretanto pode ocorrer em circunstâncias especiais quando uma pessoa infectada produz gotículas respiratórias por um período prolongado (maior que 30 minutos a várias horas) em um espaço fechado. Nessas situações, uma quantidade suficiente de vírus pode permanecer presente no espaço de forma a causar infecções em pessoas que estiverem a mais de 1 metro de distância ou que passaram por aquele espaço logo após a saída da pessoa infectada.
+•	Estas circunstâncias incluem:
+•	Espaços fechados dentro dos quais várias pessoas podem ter sido expostas a uma pessoa infectada ao mesmo tempo, ou logo após a saída da pessoa infectada deste espaço.
+•	Exposição prolongada a partículas respiratórias, muitas vezes geradas por esforço respiratório (gritar, cantar, fazer exercícios) que aumentam a concentração de gotículas respiratórias em suspensão.
+Ventilação ou tratamento de ar inadequados que permitiram o acúmulo de pequenas gotículas e partículas respiratórias em suspensão. Alguns procedimentos médicos em vias aéreas também podem produzir aerossóis que são capazes de permanecer suspensas no ar por períodos mais longos. Quando tais procedimentos são realizados em pessoas com covid-19 em unidades de saúde, esses aerossóis podem conter o vírus, que poderão ser inalados por outras pessoas que não estejam utilizando equipamento de proteção individual (EPI) apropriado.
+Período de incubação
+O período de incubação é estimado entre 1 a 14 dias, com mediana de 5 a 6 dias.
+Período de transmissibilidade
+O conhecimento sobre a transmissão da covid-19 está sendo atualizado continuamente. A transmissão da doença pode ocorrer diretamente, pelo contato com pessoas infectadas, ou indiretamente, pelo contato com superfícies ou objetos utilizados pela pessoa infectada. Evidências atuais sugerem que a maioria das transmissões ocorre de pessoas sintomáticas para outras.
+Também já é conhecido que muitos pacientes podem transmitir a doença durante o período de incubação, geralmente 48 horas antes do início dos sintomas. Estas pessoas estão infectadas e eliminando vírus, mas ainda não desenvolveram sintomas (transmissão pré-sintomática).
+Há alguma evidência de que a disseminação a partir de portadores assintomáticos é possível, embora se pense que a transmissão seja maior quando as pessoas estão pré-sintomáticas ou sintomáticas. Segundo a Organização Mundial da Saúde (OMS), indivíduos assintomáticos têm muito menos probabilidade de transmitir o vírus do que aqueles que desenvolvem sintomas.
+Suscetibilidade e imunidade
+A suscetibilidade é geral, por ser um novo vírus e de potencial pandêmico. Sobre a imunidade, ainda não se sabe por quanto tempo a infecção em humanos irá gerar imunidade contra novas infecções e se essa imunidade pode durar por toda a vida. Evidências atuais sugerem a possibilidade de reinfecção pelo vírus SARS-CoV-2. Entretanto, reinfecções são incomuns no período de 90 dias após a primo-infecção.
+
